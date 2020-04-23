@@ -1,0 +1,21 @@
+{
+  "params": {
+    "about_text": "This is my blog and i am gonna launch it soon.",
+    "blog_name": "Testblog",
+    "fb_url": "https://facebook.com/Testblog",
+    "gh_url": "https://github.com/Testblog",
+    "gmail-password": "",
+    "gmail-user": "",
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/Testblog",
+    "no_of_posts": 3,
+    "prod_uri": "mysql://root:@localhost/Testblog",
+    "tag_line": "Blog made to test",
+    "tw_url": "https://twitter.com/Testblog",
+    "login_image": "login.svg",
+    "admin_user": "tester",
+    "admin_password": "tester",
+    "upload_location": "Add location where the upload files go"
+
+  }
+}
