@@ -7,7 +7,7 @@
     "gmail-password": "",
     "gmail-user": "",
     "local_server": "True",
-    "local_uri": "mysql://root:@localhost/Testblog",
+    "local_uri": "mysql://root:@localhost/poetryblog",
     "no_of_posts": 3,
     "prod_uri": "mysql://root:@localhost/Testblog",
     "tag_line": "Blog made to test",
