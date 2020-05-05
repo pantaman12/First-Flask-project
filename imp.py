@@ -11,7 +11,7 @@ from datetime import datetime
 '''
 open json file with read mode
 '''
-with open("config.json", "r") as c:
+with open("package.json", "r") as c:
     params = json.load(c)["params"]
 
 local_server = True
